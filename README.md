@@ -28,32 +28,33 @@
 
 <p>
 
-<a href="https://linkedin.com/in/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin" height="50" width="40" hspace="10" />Linkedin</a>
-<a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="40" hspace="10" />twitter
+<a href="https://linkedin.com/in/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin" height="50" width="40" hspace="5" />Linkedin</a>
+<a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="40" hspace="5" />twitter
 </a>
-<a href="https://instagram.com/instgram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instgram" height="50" width="40" hspace="10" />instagram</a>
-<a href="https://fb.com/facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="40"  hspace="10"/>facebook</a>
-<a href="https://www.youtube.com/c/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="40" hspace="10"/>youtube</a>
+<a href="https://instagram.com/instgram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instgram" height="50" width="40" hspace="5" />instagram</a>
+<a href="https://fb.com/facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="40"  hspace="5"/>facebook</a>
+<a href="https://www.youtube.com/c/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="40" hspace="5"/>youtube</a>
 <a href="https://discord.gg/discode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discode" height="70" width="40" />discord</a>
-<a href="https://huggingface.co/" target="blank"><img align="center" src="https://media.tenor.com/hSnGpQZHJhwAAAAi/hugging-face-people.gif" alt="discode" height="30" width="30" />huggingface</a>
+<a align="right" href="https://dev.to/dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="50" width="40" hspace="5"/>dev</a>
 
 
 
-<a href="https://www.hackerrank.com/hackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" hspace="10" />hackerrank</a>
-<a href="https://codeforces.com/profile/codeforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" hspace="10" />codeforces</a>
-<a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" hspace="10"/>leetcode</a>
-<a href="https://codepen.io/codepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="50" width="40" hspace="10"/>codepen</a>
-<a align="right" href="https://dev.to/dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="50" width="40" hspace="10"/>dev</a>
-<a href="https://stackoverflow.com/users/stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="50" width="40" hspace="10"/>stackoverflow</a>
+
+<a href="https://www.hackerrank.com/hackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" hspace="5" />hackerrank</a>
+<a href="https://codeforces.com/profile/codeforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" hspace="5" />codeforces</a>
+<a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" hspace="5"/>leetcode</a>
+<a href="https://codepen.io/codepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="50" width="40" hspace="5"/>codepen</a>
+<a href="https://huggingface.co/" target="blank"><img align="center" src="https://media.tenor.com/hSnGpQZHJhwAAAAi/hugging-face-people.gif" alt="discode" height="30" width="30" hspace="5" />huggingface</a>
+<a href="https://stackoverflow.com/users/stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="50" width="40" hspace="5"/>stackoverflow</a>
 
 
-<a href="https://codesandbox.com/codesandbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="50" width="40" hspace="10"/>codesandbox</a>
-<a href="https://dribbble.com/dribble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribble" height="30" width="40" hspace="10"/>dribble</a>
-<a href="https://www.behance.net/behance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" hspace="10"/>behance</a>
-<a href="https://hashnode.com/hashnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" hspace="10"/>hashnode</a>
+<a href="https://codesandbox.com/codesandbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="50" width="40" hspace="5"/>codesandbox</a>
+<a href="https://dribbble.com/dribble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribble" height="30" width="40" hspace="5"/>dribble</a>
+<a href="https://www.behance.net/behance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" hspace="5"/>behance</a>
+<a href="https://hashnode.com/hashnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" hspace="5"/>hashnode</a>
 <a href="https://medium.com/medium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />medium</a>
 <a href="https://www.codechef.com/users/codechef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />codechef</a>
-<a href="https://kaggle.com/kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="50" width="40" hspace="10"/>kaggle</a>
+<a href="https://kaggle.com/kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="50" width="40"/>kaggle</a>
 
 
 ## Programming Languages
