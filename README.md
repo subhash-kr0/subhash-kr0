@@ -74,7 +74,7 @@
  <img src="https://img.shields.io/badge/-React-000?&logo=React" width="120" height="50"/>
  <img src="https://img.shields.io/badge/-Spring-000?&logo=Spring" width="120" height="50"/>
  <img src="https://img.shields.io/badge/-Redis-000?&logo=Redis" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" width="140" height="50"/>
+ <img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" width="140" height="50"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhash-kr0&" alt="subhash-kr0" />
 
 
 <!-- <img src="https://raw.githubusercontent.com/subhash-kr0/subhash-kr0/output/snake.svg" alt="Snake animation" /> -->
