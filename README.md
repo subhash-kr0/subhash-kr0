@@ -97,7 +97,7 @@
 <div>
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 320px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 450px; height: auto;"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 325px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 460px; height: auto;"/>
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
@@ -111,15 +111,15 @@
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 1px;">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 220px; height: auto;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 425px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" style="flex: 1; width: 290px;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 190px; height: auto;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 350px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" style="flex: 1; width: 240px;"/>
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; flex-nowrap; wrap; gap: 1px;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" style="flex: 1; width: 327px;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" style="flex: 1; width: 350px; height: auto;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" style="flex: 1; width: 265px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" style="flex: 1; width: 275px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" style="flex: 1; width: 290px; height: auto;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" style="flex: 1; width: 220px;"/>
 </div>
 <hr>
 </div>
