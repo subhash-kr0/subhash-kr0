@@ -1,122 +1,130 @@
-<a href="https://subhashkr.netlify.app/">![](./myname.jpeg)</a>
-<a href="https://www.subhashkr.netlify.com/"><img height="137px" align="centre" src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+# SUBHASH KUMAR
 
-<img  align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🔭 I’m currently working on [My Portfolio](<amazonClone>)
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my projects are available at [<myportfolio>](<myportfolio>)
-
-- 📝 I regularly write articles on [<blolink>](<blolink>)
-
-- 📫 How to reach me **subhashkr855@gmail.com**
-
-- 📄 Know about my experiences [<resumellink>](<resumellink>)
-
-- ⚡ Fun fact **I like to learn new things**
+ <br> <img src="https://readme-typing-svg.demolab.com?font=Calibri&color=FF00FF&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Subhash+Kumar;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Short Intro" /> <br><img src="gif_1.gif" align="right" width="200"> 
 
 
 
 
-<h3 align="left">Connect with me:</h3><hr><hr>
-<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+Anand+👨🏻‍💻" alt="About Me" />
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=600&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics+🤖" alt="About Me" />
 
-<a href="https://www.linkedin.com/in/subhash-kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin" height="50" width="40" hspace="5" />Linkedin</a>
-<a href="https://x.com/subhash_k0?t=l3B56qDD-1oF_uXLrOU7sw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="40" hspace="5" />twitter</a>
-<a href="https://instagram.com/subhash_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instgram" height="50" width="40" hspace="5" />instagram</a>
-<a href="https://www.facebook.com/profile.php?id=61559916877747&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="40"  hspace="5"/>facebook</a>
-<a href="https://www.youtube.com/c/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="40" hspace="5"/>youtube</a>
-<a href="https://discord.gg/subhash_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discode" height="70" width="40" />discord</a>
-<a align="right" href="https://dev.to/subhash_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="50" width="40" hspace="5"/>dev</a>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=50&lines=I+am+currently+learning+Machine+Learning+and+Artificial+Intelligence+🤖" alt="About Me" />
+
+## 🔧 SKILLS
+
+![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)
+<br> </br>
+
+# 👨🏻‍💻 TECH & SOFTWARES
+
+![👨🏻‍💻 TECH & SOFTWARES ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,idea,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
+<br> </br>
+
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> </summary>
+
+<a href="https://github.com/creativepuru">
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
+</a> <br> </br>
+
+<details>
+<summary>
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=👉🏻+ABOUT+ME" alt="About Me (Click on Dropdown)" /> </h1> </summary>
+
+* 👨🏻‍💻 I'm an imaginative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects. ✨🌱💡
+
+* 👉🏻 I'm a curious and adventurous soul who constantly thrives on discovering new knowledge, exploring different perspectives, and pushing myself to learn and grow in all areas of life. 🌍📚🌟
+
+* 👉🏻 I'm a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects. 🎨💡🚀
+
+* 👉🏻 With a passion for making a difference in the world, I'm driven to use my skills and talents to contribute to meaningful causes and make a positive impact in the lives of others. 🌍❤️🌟
+
+* 👉🏻 As a problem solver, I'm skilled at breaking down complex challenges into manageable pieces and finding creative solutions that address the root causes of issues. 🧩💡🔍
+
+* 👉🏻 I'm a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions. 🙌🤝🌟
+
+</details> <br> </br>
+
+<!-- Connect with me -->
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+Connect+with++me+👇🏻" alt="How to Reach Me" /> </h1>
+
+[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Connect with Purushottam Anand on Linkedin")    <!-- LinkedIn -->
+[![Purushottam Anand's Twitter Handle](https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
+
+[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail%20👉🏻-Use%20Desktop%20/%20Laptop%20to%20open%20this%20link-red?style=for-the-badge&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - Use Desktop / Laptop to open this link")
+
+<br> </br>
+
+# 🎶 Currently Coding 👨🏻‍💻 & Listening to 🎧
+
+[![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
+
+<br> </br>
+
+# 📈 GitHub Profile Views (since 29 April 2023)
+
+![Visitor-Count](https://profile-counter.glitch.me/{creativepuru}/count.svg) <br>
+
+[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=500&multiline=false&width=1000&height=100&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻;;✨+I+am+constantly+adding+new+contents+📚;;💭+Follow+me+and+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru?tab=repositories)
+<br>
 
 
 
+<!-- Back to TOP -->
+<p align="right">
+<a href="#top">
+<img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
 
-<a href="https://www.hackerrank.com/profile/subhash_kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" hspace="5" />hackerrank</a>
-<a href="https://codeforces.com/profile/codeforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" hspace="5" />codeforces</a>
-<a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" hspace="5"/>leetcode</a>
-<a href="https://codepen.io/Subhash-Kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="50" width="40" hspace="5"/>codepen</a>
-<a href="https://huggingface.co/Subhash-kr0" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="" height="50" width="50" hspace="5" />huggingface</a>
-<a href="https://stackoverflow.com/users/25767224/subhash-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="50" width="40" hspace="5"/>stackoverflow</a>
-
-
-<a href="https://codesandbox.io/u/subhash_kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="50" width="40" hspace="5"/>codesandbox</a>
-<a href="https://dribbble.com/dribble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribble" height="30" width="40" hspace="5"/>dribble</a>
-<a href="https://www.behance.net/behance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" hspace="5"/>behance</a>
-<a href="https://hashnode.com/hashnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" hspace="5"/>hashnode</a>
-<a href="https://medium.com/@subhashkr855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />medium</a>
-<a href="https://www.codechef.com/users/subhash_kr0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />codechef</a>
-<a href="https://kaggle.com/kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="50" width="40"/>kaggle</a>
-
-
-## Programming Languages
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="50" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="50" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="50" alt="C#" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="50" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="50" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="50" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="50" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="50" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="50" alt="Kotlin" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="50" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="50" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="50" alt="rlang" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="50" hspace="10" alt="Ruby" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="50" alt="Rust" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="50" alt="Swift" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="50" alt="TypeScript" /></a>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 
-## Technologies
 
- <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&" width="100" height="50"/><img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" width="100" height="50"/>
- <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" width="100" height="50"/>
- <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-React-000?&logo=React" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-Spring-000?&logo=Spring" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-Redis-000?&logo=Redis" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" width="140" height="50"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhash-kr0&" alt="subhash-kr0" />
+[![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=for-the-badge)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours")
+[![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=red&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views")
+![CONTRIBUTIONS TODAY](https://badges.strrl.dev/contributions/daily/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
 
 
-<!-- <img src="https://raw.githubusercontent.com/subhash-kr0/subhash-kr0/output/snake.svg" alt="Snake animation" /> -->
+>![CONTRIBUTIONS THIS WEEK](https://badges.strrl.dev/contributions/weekly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
+![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
+![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
 
 
+---
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
-<!-- ### ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; max-width: 275px; height: auto;"/>
+
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; max-width: 385px; height: auto;"/>
 
 
-<!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
+</div>
 
-<!-- ### Full Stack Projects
-
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
-
-### Cybersecurity Projects
-
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools) -->
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl" alt="Repos-per-language" style="flex: 1; max-width: 220px; height: auto;"/>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl" alt="Most-Commit-Language" style="flex: 1; max-width: 220px; height: auto;"/>
+  
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl" alt="Stats" style="flex: 1; max-width: 220px; height: auto;"/>
+  
+ </div>
 
 
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 1px;">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; max-width: 210px; height: auto;"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"  style="flex: 1; max-width: 415px; ;"/><!-- wi*quL3fcV -->
+</div>
+
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 1px;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" style="flex: 1; max-width: 230px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" style="flex: 1; max-width: 250px; height: auto;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" style="flex: 1; max-width: 190px;"/>
+</div>
+<hr>
