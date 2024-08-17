@@ -102,9 +102,9 @@
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl" alt="Repos-per-language" style="flex: 1; width: 313px; height: auto;"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl" alt="Most-Commit-Language" style="flex: 1; width: 312px; height: auto;"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl" alt="Stats" style="flex: 1; width: 313px; height: auto;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl" alt="Repos-per-language" style="flex: 1; width: 260px; height: auto;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl" alt="Most-Commit-Language" style="flex: 1; width: 260px; height: auto;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl" alt="Stats" style="flex: 1; width: 260px; height: auto;"/>
   
  </div>
 
