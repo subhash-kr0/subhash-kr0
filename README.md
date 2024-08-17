@@ -21,8 +21,6 @@
  <br> <img src="https://readme-typing-svg.demolab.com?font=Calibri&color=FF00FF&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Subhash+Kumar;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Short Intro" /> <br><img src="gif_1.gif" align="right" width="200"> 
 
 
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+Anand+👨🏻‍💻" alt="About Me" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=600&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics+🤖" alt="About Me" />
@@ -41,36 +39,8 @@
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> </summary>
 
-<a href="https://github.com/creativepuru">
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
-</a> <br> </br>
 
-<!-- Connect with me -->
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+Connect+with++me+👇🏻" alt="How to Reach Me" /> </h1>
-
-[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Connect with Purushottam Anand on Linkedin")    <!-- LinkedIn -->
-[![Purushottam Anand's Twitter Handle](https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
-
-[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail%20👉🏻-Use%20Desktop%20/%20Laptop%20to%20open%20this%20link-red?style=for-the-badge&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - Use Desktop / Laptop to open this link")
-
-
-[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=500&multiline=false&width=1000&height=100&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻;;✨+I+am+constantly+adding+new+contents+📚;;💭+Follow+me+and+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru?tab=repositories)
-<br>
-
-
-
-[![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=for-the-badge)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours")
-[![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=red&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views")
-![CONTRIBUTIONS TODAY](https://badges.strrl.dev/contributions/daily/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
-
-
->![CONTRIBUTIONS THIS WEEK](https://badges.strrl.dev/contributions/weekly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
-![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
-![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
-
-
----
-<div>
+<hr/>
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 325px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 460px; height: auto;"/>
@@ -97,16 +67,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" style="flex: 1; width: 275px;"/>
 <img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" style="flex: 1; width: 290px; height: auto;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&theme=buefy&hide_border=true" style="flex: 1; width: 220px;"/>
 </div>
-<hr>
-</div>
-
-<!-- Back to TOP -->
-<p align="right">
-<a href="#top">
-<img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
 
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-<hr>
+<hr/>
+
