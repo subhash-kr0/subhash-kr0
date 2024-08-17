@@ -97,7 +97,7 @@
 <div>
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 400px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 550px; height: auto;"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 355px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 500px; height: auto;"/>
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
