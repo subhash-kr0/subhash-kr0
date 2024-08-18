@@ -1,4 +1,4 @@
-<img src="gif.gif" alt="Full Width GIF" style="width: 1000px; height: auto;">
+<img src="gif (2).gif" alt="Full Width GIF" style="width: 1000; height: auto;">
 
 
 
