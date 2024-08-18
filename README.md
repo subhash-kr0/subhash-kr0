@@ -1,4 +1,7 @@
-<img src="new.gif" alt="Full Width GIF" style="width: 100%; height: auto;">
+<img src="new.gif" alt="Full Width GIF" style="width: 100%; height: auto;"><img src="uv2.gif" alt="Full Width GIF" style="width: 100%; height: auto;"> 
+
+
+<!--
 <hr>
 <table><tr>
 <a href="https://www.linkedin.com/in/subhash-kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin" height="50" width="40" hspace="5" /></a>
@@ -29,7 +32,8 @@
 
 <h1>| <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> 
 
-<hr/>
+-->
+
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 315px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 445px; height: auto;"/>
