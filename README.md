@@ -37,7 +37,72 @@
 ![👨🏻‍💻 TECH & SOFTWARES ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,idea,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
 <br> </br>
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> </summary>
+
+
+
+# Skills & Technologies
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="src/cy.gif" alt="Cyber Security" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">Cyber Security</div>
+    </td>
+    <td align="center">
+      <img src="src/block2.gif" alt="Blockchain" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">Blockchain Dev</div>
+    </td>
+    <td align="center">
+      <img src="src/web.gif" alt="Web Development" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">Web Development</div>
+    </td>
+    <td align="center">
+      <img src="src/data.gif" alt="Data Scientist" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">Data Scientist</div>
+    </td>
+     <td align="center">
+      <img src="src/eth2.gif" alt="Ethereum" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">Ethereum</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="src/devops.gif" alt="DevOps" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">DevOps</div>
+    </td>
+    <td align="center">
+      <img src="src/and.gif" alt="Android Dev" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">Android Dev</div>
+    </td>
+    <td align="center">
+      <img src="src/ui.webp" alt="UI/UX" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">UI/UX Design</div>
+    </td>
+    <td align="center">
+      <img src="src/ai.gif" alt="Artificial Intelligence" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">Artificial Intelligence</div>
+    </td>
+        <td align="center">
+      <img src="src/ml.gif" alt="Machine Learning" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <br>
+      <div style="font-size: 14px;">Machine Learning</div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<h1>| <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> 
 
 
 <hr/>
