@@ -1,34 +1,6 @@
 <img src="gif (2).gif" alt="Full Width GIF" style="width: 100%; height: auto;"><img src="s1.png" alt="Full Width GIF" style="width: 1000px; height: auto;">
 
-# SUBHASH KUMAR
-<details>
-<summary>
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=👉🏻+ABOUT+ME" alt="About Me (Click on Dropdown)" /> </h1> </summary>
-
-* 👨🏻‍💻 I'm an imaginative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects. ✨🌱💡
-
-* 👉🏻 I'm a curious and adventurous soul who constantly thrives on discovering new knowledge, exploring different perspectives, and pushing myself to learn and grow in all areas of life. 🌍📚🌟
-
-* 👉🏻 I'm a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects. 🎨💡🚀
-
-* 👉🏻 With a passion for making a difference in the world, I'm driven to use my skills and talents to contribute to meaningful causes and make a positive impact in the lives of others. 🌍❤️🌟
-
-* 👉🏻 As a problem solver, I'm skilled at breaking down complex challenges into manageable pieces and finding creative solutions that address the root causes of issues. 🧩💡🔍
-
-* 👉🏻 I'm a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions. 🙌🤝🌟
-
-</details> <br> </br>
-
-
- <br> <img src="https://readme-typing-svg.demolab.com?font=Calibri&color=FF00FF&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Subhash+Kumar;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Short Intro" /> <br><img src="gif_1.gif" align="right" width="200"> 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+Anand+👨🏻‍💻" alt="About Me" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=600&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics+🤖" alt="About Me" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=50&lines=I+am+currently+learning+Machine+Learning+and+Artificial+Intelligence+🤖" alt="About Me" />
-
+<!--
 ## 🔧 SKILLS
 
 ![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)
@@ -37,7 +9,30 @@
 # 👨🏻‍💻 TECH & SOFTWARES
 
 ![👨🏻‍💻 TECH & SOFTWARES ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,idea,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
-<br> </br>
+<br> </br> -->
+
+
+
+<a href="https://www.linkedin.com/in/subhash-kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin" height="50" width="40" hspace="5" /></a>
+<a href="https://x.com/subhash_k0?t=l3B56qDD-1oF_uXLrOU7sw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="40" hspace="5" /></a>
+<a href="https://instagram.com/subhash_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instgram" height="50" width="40" hspace="5" /></a>
+<a href="https://www.facebook.com/profile.php?id=61559916877747&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="40"  hspace="5"/></a>
+<a href="https://www.youtube.com/c/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="40" hspace="5"/></a>
+<a href="https://discord.gg/subhash_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discode" height="70" width="40" /></a>
+<a align="right" href="https://dev.to/subhash_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="50" width="40" hspace="5"/></a>
+<a href="https://www.hackerrank.com/profile/subhash_kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" hspace="5" /></a>
+<a href="https://codeforces.com/profile/codeforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" hspace="5" /></a>
+<a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" hspace="5"/></a>
+<a href="https://codepen.io/Subhash-Kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="50" width="40" hspace="5"/></a>
+<a href="https://huggingface.co/Subhash-kr0" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="" height="50" width="50" hspace="5" /></a>
+<a href="https://stackoverflow.com/users/25767224/subhash-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="50" width="40" hspace="5"/></a>
+<a href="https://codesandbox.io/u/subhash_kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="50" width="40" hspace="5"/></a>
+<a href="https://dribbble.com/dribble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribble" height="30" width="40" hspace="5"/></a>
+<a href="https://www.behance.net/behance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" hspace="5"/></a>
+<a href="https://hashnode.com/hashnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" hspace="5"/></a>
+<a href="https://medium.com/@subhashkr855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/subhash_kr0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
+<a href="https://kaggle.com/kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="50" width="40"/></a>
 
 
 
@@ -47,59 +42,60 @@
 <table>
   <tr>
     <td align="center">
-      <img src="src/cy.gif" alt="Cyber Security" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/cy.gif" alt="Cyber Security" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">Cyber Security</div>
     </td>
     <td align="center">
-      <img src="src/block2.gif" alt="Blockchain" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/block2.gif" alt="Blockchain" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">Blockchain Dev</div>
     </td>
     <td align="center">
-      <img src="src/web.gif" alt="Web Development" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/web.gif" alt="Web Development" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">Web Development</div>
     </td>
     <td align="center">
-      <img src="src/data.gif" alt="Data Scientist" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/data.gif" alt="Data Scientist" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">Data Scientist</div>
     </td>
      <td align="center">
-      <img src="src/eth2.gif" alt="Ethereum" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/eth2.gif" alt="Ethereum" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">Ethereum</div>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="src/devops.gif" alt="DevOps" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/devops.gif" alt="DevOps" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">DevOps</div>
     </td>
     <td align="center">
-      <img src="src/and.gif" alt="Android Dev" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/and.gif" alt="Android Dev" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">Android Dev</div>
     </td>
     <td align="center">
-      <img src="src/ui.webp" alt="UI/UX" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/ui.webp" alt="UI/UX" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">UI/UX Design</div>
     </td>
     <td align="center">
-      <img src="src/ai.gif" alt="Artificial Intelligence" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/ai.gif" alt="Artificial Intelligence" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">Artificial Intelligence</div>
     </td>
         <td align="center">
-      <img src="src/ml.gif" alt="Machine Learning" width="140" height="100" style="border-radius: 15px; object-fit: cover;">
+      <img src="src/ml.gif" alt="Machine Learning" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
       <br>
       <div style="font-size: 14px;">Machine Learning</div>
     </td>
   </tr>
 </table>
+
 
 
 
