@@ -1,18 +1,6 @@
-<img src="new.gif" alt="Full Width GIF" style="width: 100%; height: auto;"><img src="s1.png" alt="Full Width GIF" style="width: 1000px; height: auto;">
-
-<!--
-## 🔧 SKILLS
-
-![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)
-<br> </br>
-
-# 👨🏻‍💻 TECH & SOFTWARES
-
-![👨🏻‍💻 TECH & SOFTWARES ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,idea,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
-<br> </br> -->
-
-
-
+<img src="new.gif" alt="Full Width GIF" style="width: 100%; height: auto;">
+<hr>
+<table><tr>
 <a href="https://www.linkedin.com/in/subhash-kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin" height="50" width="40" hspace="5" /></a>
 <a href="https://x.com/subhash_k0?t=l3B56qDD-1oF_uXLrOU7sw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="40" hspace="5" /></a>
 <a href="https://instagram.com/subhash_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instgram" height="50" width="40" hspace="5" /></a>
@@ -28,24 +16,18 @@
 <a href="https://stackoverflow.com/users/25767224/subhash-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="50" width="40" hspace="5"/></a>
 <a href="https://codesandbox.io/u/subhash_kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="50" width="40" hspace="5"/></a>
 <a href="https://dribbble.com/dribble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribble" height="30" width="40" hspace="5"/></a>
-<a href="https://www.behance.net/behance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" hspace="5"/></a>
 <a href="https://hashnode.com/hashnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" hspace="5"/></a>
 <a href="https://medium.com/@subhashkr855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/subhash_kr0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a href="https://kaggle.com/kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="50" width="40"/></a>
-
-
-
+</tr>
+</table>
+<hr>
 
 # Skills & Technologies
-
-
 <img src="ski.gif" alt="Full Width GIF" style="width: 1000px; height: auto;">
 
-
-
 <h1>| <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> 
-
 
 <hr/>
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
