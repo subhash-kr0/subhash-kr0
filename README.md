@@ -1,3 +1,8 @@
+<img src="gif.gif" alt="Full Width GIF" style="width: 1000px; height: auto;">
+
+
+
+
 # SUBHASH KUMAR
 <details>
 <summary>
