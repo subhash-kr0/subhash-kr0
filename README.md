@@ -1,7 +1,4 @@
-<img src="gif (2).gif" alt="Full Width GIF" style="width: 1000; height: auto;">
-
-
-
+<img src="gif (2).gif" alt="Full Width GIF" style="width: 100%; height: auto;"><img src="s1.png" alt="Full Width GIF" style="width: 1000px; height: auto;">
 
 # SUBHASH KUMAR
 <details>
