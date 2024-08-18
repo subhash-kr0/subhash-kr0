@@ -39,64 +39,8 @@
 
 # Skills & Technologies
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="src/cy.gif" alt="Cyber Security" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">Cyber Security</div>
-    </td>
-    <td align="center">
-      <img src="src/block2.gif" alt="Blockchain" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">Blockchain Dev</div>
-    </td>
-    <td align="center">
-      <img src="src/web.gif" alt="Web Development" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">Web Development</div>
-    </td>
-    <td align="center">
-      <img src="src/data.gif" alt="Data Scientist" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">Data Scientist</div>
-    </td>
-     <td align="center">
-      <img src="src/eth2.gif" alt="Ethereum" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">Ethereum</div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="src/devops.gif" alt="DevOps" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">DevOps</div>
-    </td>
-    <td align="center">
-      <img src="src/and.gif" alt="Android Dev" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">Android Dev</div>
-    </td>
-    <td align="center">
-      <img src="src/ui.webp" alt="UI/UX" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">UI/UX Design</div>
-    </td>
-    <td align="center">
-      <img src="src/ai.gif" alt="Artificial Intelligence" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">Artificial Intelligence</div>
-    </td>
-        <td align="center">
-      <img src="src/ml.gif" alt="Machine Learning" width="130" height="50" style="border-radius: 15px; object-fit: cover;">
-      <br>
-      <div style="font-size: 14px;">Machine Learning</div>
-    </td>
-  </tr>
-</table>
 
-
+<img src="ski.gif" alt="Full Width GIF" style="width: 1000px; height: auto;">
 
 
 
@@ -106,7 +50,7 @@
 <hr/>
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 325px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 460px; height: auto;"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 315px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 445px; height: auto;"/>
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
