@@ -1,4 +1,4 @@
-<img src="pro.gif" alt="Full Width GIF" style="width: 100%; height: auto;">
+<img src="prof.gif" alt="Full Width GIF" style="width: 100%; height: auto;">
 
 
 <!--
