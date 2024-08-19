@@ -1,42 +1,9 @@
 <div align="center">
-<img src="prof.gif" alt="Full Width GIF" style="width: 800px; height: auto;">
-
-<!--
-<hr>
-<table><tr>
-<a href="https://www.linkedin.com/in/subhash-kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin" height="50" width="40" hspace="5" /></a>
-<a href="https://x.com/subhash_k0?t=l3B56qDD-1oF_uXLrOU7sw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="40" hspace="5" /></a>
-<a href="https://instagram.com/subhash_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instgram" height="50" width="40" hspace="5" /></a>
-<a href="https://www.facebook.com/profile.php?id=61559916877747&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="40"  hspace="5"/></a>
-<a href="https://www.youtube.com/c/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="40" hspace="5"/></a>
-<a href="https://discord.gg/subhash_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discode" height="70" width="40" /></a>
-<a align="right" href="https://dev.to/subhash_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="50" width="40" hspace="5"/></a>
-<a href="https://www.hackerrank.com/profile/subhash_kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" hspace="5" /></a>
-<a href="https://codeforces.com/profile/codeforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" hspace="5" /></a>
-<a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" hspace="5"/></a>
-<a href="https://codepen.io/Subhash-Kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="50" width="40" hspace="5"/></a>
-<a href="https://huggingface.co/Subhash-kr0" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="" height="50" width="50" hspace="5" /></a>
-<a href="https://stackoverflow.com/users/25767224/subhash-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="50" width="40" hspace="5"/></a>
-<a href="https://codesandbox.io/u/subhash_kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="50" width="40" hspace="5"/></a>
-<a href="https://dribbble.com/dribble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribble" height="30" width="40" hspace="5"/></a>
-<a href="https://hashnode.com/hashnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" hspace="5"/></a>
-<a href="https://medium.com/@subhashkr855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/subhash_kr0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="50" width="40"/></a>
-</tr>
-</table>
-<hr>
-
-# Skills & Technologies
-<img src="ski.gif" alt="Full Width GIF" style="width: 1000px; height: auto;">
-
-<h1>| <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> 
-
--->
+<img src="prof.gif" alt="Full Width GIF" style="width: 802px; height: auto;">
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 335px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 467px; height: auto;"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 334px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 467px; height: auto;"/>
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
@@ -47,10 +14,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 237px; height: auto;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&show_icons=true&include_all_commits=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="subhash's github stats" style="flex: 1; width: 320px; height: auto;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=false" style="flex: 1; width: 242px;"/>
 </div>
- </div>
 <!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=805px/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=804px />
 
 </div>
