@@ -15,10 +15,11 @@
 - 🛠️ Proficient in Python, Java, and Blockchain.
 - 🌱 Currently learning advanced cybersecurity topics.
 - 🔥 Passionate about open-source contributions and teaching coding in Hindi.
-- 💻 Software Engineer and Data Scientist.
+<!--- 💻 Software Engineer and Data Scientist.
 - 🛠️ Proficient in Python, Java, and Blockchain.
 - 🌱 Currently learning advanced cybersecurity topics.
 - 🔥 Passionate about open-source contributions and teaching coding in Hindi.
+-->
 <hr>
 <div>
 <img src="./img/PngItem_4272074.png" alt="Image Description" width="350" height="300">
