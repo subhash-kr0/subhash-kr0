@@ -22,9 +22,9 @@
 
 <h3> Connect with Me </h3>
 <hr>
-<img src="./gif/linkedin.gif" alt="Image Description" align="left" width="180" height="100">
-<img src="./gif/hackr.gif" alt="Image Description" align="left" width="180" height="100">
-<img src="./gif/bird.gif" alt="Image Description" align="left" width="180" height="100">
+<img src="./gif/linkedin.gif" alt="Image Description" align="left" width="190" height="100">
+<img src="./gif/hackr.gif" alt="Image Description" align="left" width="190" height="100">
+<img src="./gif/bird.gif" alt="Image Description" align="left" width="190" height="100">
 <!-- <img src="./img/leet.png" alt="Image Description" width="100"> -->
 
 <div align="center">
