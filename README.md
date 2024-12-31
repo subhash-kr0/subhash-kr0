@@ -1,5 +1,5 @@
 <!-- <img src="./img/th.jpg" alt="Image Description" width="1000" height="80px"> -->
-<img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="50">
+<img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="40">
 <img src="./img/Pi7.png" alt="Image Description" width="400"align="right">
 
 <img src="./gif/gif_2.gif" width="100" align="left">
@@ -22,8 +22,7 @@
 -->
 <hr>
 <div>
-<img src="./img/PngItem_4272074.png" alt="Image Description" width="350" height="300">
-<img src="./img/PngItem_4621033.png" alt="Image Description" width="350"height="300">
+<img src="./img/PngItem_4272074.png" alt="Image Description" width="300" height="300"><img src="./img/PngItem_4621033.png" alt="Image Description" width="350"height="250" align="centre">
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
