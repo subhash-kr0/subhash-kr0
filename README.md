@@ -18,7 +18,7 @@
 </div>
 <!-- <hr> -->
 <br>
-<img src="./gif/gif_2.gif" alt="Image Description" align="left" width="250" height="200">
+<img src="./gif/gif_2.gif" alt="Image Description" align="left" width="250" height="180">
 
 <h3> Connect with Me </h3>
 <hr>
