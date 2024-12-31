@@ -22,7 +22,7 @@
 -->
 <hr>
 <div>
-<img src="./img/PngItem_4272074.png" alt="Image Description" width="300" height="300" align="left"><img src="./img/PngItem_4621033.png" alt="Image Description" width="300"height="180" align="center">
+<img src="./img/PngItem_4272074.png" alt="Image Description" width="300" height="300" align="left"><img src="./img/PngItem_4621033.png" alt="Image Description" width="300"height="180" align="center"><img src="./gif/gif_1.gif" alt="Image Description" width="250"height="180" align="right">
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
