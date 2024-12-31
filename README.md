@@ -1,5 +1,5 @@
 <!-- <img src="./img/th.jpg" alt="Image Description" width="1000" height="80px"> -->
-<img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="40">
+<img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="30">
 <img src="./img/Pi7.png" alt="Image Description" width="400"align="right">
 
 <img src="./gif/gif_2.gif" width="100" align="left">
@@ -22,7 +22,7 @@
 -->
 <hr>
 <div>
-<img src="./img/PngItem_4272074.png" alt="Image Description" width="300" height="300" align="left"><img src="./img/PngItem_4621033.png" alt="Image Description" width="300"height="180" align="center"><img src="./gif/gif_1.gif" alt="Image Description" width="250"height="180" align="right">
+<img src="./img/PngItem_4272074.png" alt="Image Description" width="300" height="300" align="left"><img src="./img/PngItem_4621033.png" alt="Image Description" width="300"height="180" align="center"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right">
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
@@ -31,7 +31,7 @@
 <!-- ![spotify-github-profile](/img/default.svg) -->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 <div align="left">
-<img src="./img/default.svg" width="220" align="left">
+<img src="./img/default.svg" width="200" height="220" align="left">
 <img src="./img/btn-spotify.png" width="300" height="60"align="centre">
 </div>
  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
@@ -39,7 +39,7 @@
 <a href="https://www.snapchat.com/add/matyo91"><img src="https://img.icons8.com/color/96/000000/snapchat.png" alt="snapchat"/> <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
   <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/>
-    <a href="https://www.hackerrank.com"><img src="./gif/hackr.gif" width="180" height="60" alt="twitch"/>    <a href="https://www.hackerrank.com"><img src="./img/leet.png" width="100" height="90" alt="twitch"/>
+<!--     <a href="https://www.hackerrank.com"><img src="./gif/hackr.gif" width="180" height="60" alt="twitch"/>    <a href="https://www.hackerrank.com"><img src="./img/leet.png" width="100" height="90" alt="twitch"/> -->
 
 <hr>
 <hr>
