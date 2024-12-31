@@ -27,9 +27,9 @@
 <img src="./gif/bird.gif" alt="Image Description" align="left" width="180" height="100">
 <!-- <img src="./img/leet.png" alt="Image Description" width="100"> -->
 
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
+<div  style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 334px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 467px; height: auto;"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 330px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 467px; height: auto;"/>
 </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" align="center"/>
