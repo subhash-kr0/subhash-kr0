@@ -1,5 +1,5 @@
 <!-- <img src="./img/th.jpg" alt="Image Description" width="1000" height="80px"> -->
-<img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="30">
+<img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="20">
 <img src="./img/Pi7.png" alt="Image Description" width="400"align="right">
 
 <img src="./gif/gif_2.gif" width="100" align="left">
@@ -14,7 +14,7 @@
 - 💻 Software Engineer and Data Scientist.
 - 🛠️ Proficient in Python, Java, and Blockchain.
 - 🌱 Currently learning advanced cybersecurity topics.
-- 🔥 Passionate about open-source contributions and teaching coding in Hindi.
+- 🔥 Passionate about open-source contributions and Lean new things.
 <!--- 💻 Software Engineer and Data Scientist.
 - 🛠️ Proficient in Python, Java, and Blockchain.
 - 🌱 Currently learning advanced cybersecurity topics.
@@ -31,7 +31,7 @@
 <!-- ![spotify-github-profile](/img/default.svg) -->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 <div align="left">
-<img src="./img/default.svg" width="200" height="220" align="left">
+<img src="./img/default.svg" width="180" height="210" align="left">
 <img src="./img/btn-spotify.png" width="300" height="60"align="centre">
 </div>
  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
