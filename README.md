@@ -23,12 +23,12 @@
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
-
+<img src="./img/image.png" width="300" height="180"
 ### 🎧 Spotify Playing
 <!-- ![spotify-github-profile](/img/default.svg) -->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 <div align="left">
-<a href="https://open.spotify.com/user/31vrc5z42q7rjz4zjuxllm7rptxu?si=Uu7w3FcORDW8ebvnw97rwQ"><img src="./img/default.svg" width="180" height="250" align="left">
+<a href="https://open.spotify.com/user/31vrc5z42q7rjz4zjuxllm7rptxu?si=Uu7w3FcORDW8ebvnw97rwQ"><img src="./img/default.svg" width="180" height="260" align="left">
 <img src="./img/btn-spotify.png" width="300" height="60"align="centre"></a>
 </div>
  <a href="https://www.instagram.com/tulipstripti_310"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
