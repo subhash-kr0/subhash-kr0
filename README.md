@@ -34,10 +34,10 @@
 <img src="./img/default.svg" width="180" height="210" align="left">
 <img src="./img/btn-spotify.png" width="300" height="60"align="centre">
 </div>
- <a href="https://www.instagram.com/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-<a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://www.snapchat.com/"><img src="https://img.icons8.com/?size=100&id=KrtKMa6Fduil&format=png&color=000000" alt="snapchat"/> <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="https://www.leetcode.com"><img src="https://github.com/user-attachments/assets/fd9d9402-ac79-49d8-af1e-93e880512925" alt="leetcode"/></a>
+ <a href="https://www.instagram.com/tulipstripti_310"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<a href="https://www.linkedin.com/in/tripti-verma-3a883a244/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.snapchat.com/"><img src="https://img.icons8.com/?size=100&id=KrtKMa6Fduil&format=png&color=000000" alt="snapchat"/> <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="vermatripti547@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<a href="https://leetcode.com/u/vermatripti547/"><img src="https://github.com/user-attachments/assets/fd9d9402-ac79-49d8-af1e-93e880512925" alt="leetcode"/></a>
  
 
 
