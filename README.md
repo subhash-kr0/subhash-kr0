@@ -17,7 +17,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 345px; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 232px;"/>
 </div>
-<!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=804px />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=804px />
 
 </div>
