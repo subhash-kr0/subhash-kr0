@@ -34,10 +34,13 @@
 <img src="./img/default.svg" width="180" height="210" align="left">
 <img src="./img/btn-spotify.png" width="300" height="60"align="centre">
 </div>
- <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-<a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://www.snapchat.com/add/matyo91"><img src="https://img.icons8.com/color/96/000000/snapchat.png" alt="snapchat"/> <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
+ <a href="https://www.instagram.com/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.snapchat.com/"><img src="https://img.icons8.com/?size=100&id=KrtKMa6Fduil&format=png&color=000000" alt="snapchat"/> <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<a href="https://www.leetcode.com"><img src="https://github.com/user-attachments/assets/fd9d9402-ac79-49d8-af1e-93e880512925" alt="leetcode"/></a>
+ 
+
+
 <!--   <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/> -->
 <!--     <a href="https://www.hackerrank.com"><img src="./gif/hackr.gif" width="180" height="60" alt="twitch"/>    <a href="https://www.hackerrank.com"><img src="./img/leet.png" width="100" height="90" alt="twitch"/> -->
 
@@ -52,7 +55,7 @@
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 334px; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 467px; height: auto;"/>
+
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
