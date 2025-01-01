@@ -22,7 +22,7 @@
 -->
 <hr>
 <div>
-<a href="https://github.com/Triptiverma003"><img src="./img/image_2.PNG" alt="Image Description" width="310" height="300" align="left"><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"/></a><a href="<a href="https://github.com/Triptiverma003"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
+<a href="https://github.com/Triptiverma003"><img src="./img/image_2.PNG" alt="Image Description" width="300" height="300" align="left"><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"/></a><a href="<a href="https://github.com/Triptiverma003"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
