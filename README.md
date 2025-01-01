@@ -6,7 +6,7 @@
 <img src="./gif/gif_2.gif" width="75" align="left">
 <img src="./gif/gif_2.gif" width="50" align="left">
 
-### Hi there, I'm Subhash Kr! 👋
+### Hi there, I'm Tripti ! 👋
 
 <!-- <img src="https://via.placeholder.com/600x200" alt="Profile Banner" width="600" height="200"> -->
 
