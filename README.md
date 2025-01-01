@@ -23,7 +23,7 @@
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
-<img src="./img/image.png" width="200" height="180" align="left">
+<img src="./img/image.png" width="220" height="260" align="left">
 
 ### 🎧 Spotify Playing
 <!-- ![spotify-github-profile](/img/default.svg) -->
