@@ -1,6 +1,6 @@
 <!-- <img src="./img/th.jpg" alt="Image Description" width="1000" height="80px"> -->
 <img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="20">
-<img src="./img/image_1.png" alt="Image Description" width="400"align="right">
+<a href=""><img src="./img/image_1.png" alt="Image Description" width="400"align="right"></a>
 
 <img src="./gif/gif_2.gif" width="100" align="left">
 <img src="./gif/gif_2.gif" width="75" align="left">
@@ -22,7 +22,7 @@
 -->
 <hr>
 <div>
-<img src="./img/image_2.PNG" alt="Image Description" width="300" height="300" align="left"><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right">
+<a href=""><img src="./img/image_2.PNG" alt="Image Description" width="300" height="300" align="left"></a><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right">
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
@@ -67,7 +67,7 @@
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&show_icons=true&include_all_commits=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="subhash's github stats" style="flex: 1; width: 320px; height: auto;"/>
  -->
  <img src="https://github-readme-stats.vercel.app/api?username=Triptiverma003&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 345px; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triptiverma003&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 232px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triptiverma003&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 270px;/>
 </div>
 <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=804px />
