@@ -11,15 +11,12 @@
 <!-- <img src="https://via.placeholder.com/600x200" alt="Profile Banner" width="600" height="200"> -->
 
 ### 🌟 About Me
-- 💻 Software Engineer and Data Scientist.
-- 🛠️ Proficient in Python, Java, and Blockchain.
-- 🌱 Currently learning advanced cybersecurity topics.
-- 🔥 Passionate about open-source contributions.
+ A passionate Computer Science Graduate specializing in Data Science. I have hands-on experience in building dynamic and user-friendly web applications, blending my skills in web development with a strong foundation in data-driven problem-solving.
 <!--- 💻 Software Engineer and Data Scientist.
-- 🛠️ Proficient in Python, Java, and Blockchain.
+- 🛠️ Proficient in Python, Java, and Blockchain.-->
 - 🌱 Currently learning advanced cybersecurity topics.
-- 🔥 Passionate about open-source contributions and teaching coding in Hindi.
--->
+- 🔥 Passionate about open-source contributions and making Organizations.
+
 <hr>
 <div>
 <a href="https://github.com/Triptiverma003"><img src="./img/image_2.PNG" alt="Image Description" width="300" height="300" align="left"><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"/></a><a href="<a href="https://github.com/Triptiverma003"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
