@@ -1,6 +1,6 @@
 <!-- <img src="./img/th.jpg" alt="Image Description" width="1000" height="80px"> -->
 <img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="20">
-<img src="./img/Pi7.png" alt="Image Description" width="380"align="right">
+<img src="./img/image_1.png" alt="Image Description" width="380"align="right">
 
 <img src="./gif/gif_2.gif" width="100" align="left">
 <img src="./gif/gif_2.gif" width="75" align="left">
