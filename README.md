@@ -1,10 +1,10 @@
 <!-- <img src="./img/th.jpg" alt="Image Description" width="1000" height="80px"> -->
 <img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="20">
-<a href=""><img src="./img/image_1.png" alt="Image Description" width="400"align="right"></a>
+<a href="https://github.com/Triptiverma003"><img src="./img/image_1.png" alt="Image Description" width="400"align="right"></a>
 
-<img src="./gif/gif_2.gif" width="100" align="left">
-<img src="./gif/gif_2.gif" width="75" align="left">
-<img src="./gif/gif_2.gif" width="50" align="left">
+<a href="https://github.com/Triptiverma003"> <img src="./gif/gif_2.gif" width="100" align="left"/></a>
+<a href="https://github.com/Triptiverma003"> <img src="./gif/gif_2.gif" width="75" align="left"/></a>
+<a href="https://github.com/Triptiverma003"> <img src="./gif/gif_2.gif" width="50" align="left"/></a>
 
 ### Hi there, I'm Tripti ! 👋
 
@@ -22,7 +22,7 @@
 -->
 <hr>
 <div>
-<a href=""><img src="./img/image_2.PNG" alt="Image Description" width="300" height="300" align="left"></a><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right">
+<a href="https://github.com/Triptiverma003"><img src="./img/image_2.PNG" alt="Image Description" width="300" height="300" align="left"><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"></a><a href="<a href="https://github.com/Triptiverma003">"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
