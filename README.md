@@ -61,6 +61,6 @@
 <a href="https://github.com/Triptiverma003"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triptiverma003&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 270px;"/></a>
 </div>
 <!-- Footer -->
-<a href="https://github.com/Triptiverma003"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=804px /></a>
+<a href="https://github.com/Triptiverma003"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /></a>
 
 </div>
