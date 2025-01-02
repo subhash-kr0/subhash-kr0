@@ -1,6 +1,20 @@
 <!-- <img src="./img/th.jpg" alt="Image Description" width="1000" height="80px"> -->
-<img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="20">
-<a href="https://github.com/Triptiverma003"><img src="./img/image_1.png" alt="Image Description" width="380"align="right"></a>
+<!-- <img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="20"> -->
+<div align="center">
+<!-- <img src="prof.gif" alt="Full Width GIF" style="width: 802px; height: auto;"> -->
+<img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 42%; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 58%; height: auto;"/>
+</div>
+
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
+
+<a href="https://github.com/Triptiverma003"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Triptiverma003&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 218px; height: auto;"/></a>
+<a href="https://github.com/Triptiverma003"><img src="https://github-readme-stats.vercel.app/api?username=Triptiverma003&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 345px; height: auto;"/></a>
+<a href="https://github.com/Triptiverma003"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triptiverma003&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 270px;"/></a>
+</div>
+
+
+<a href="https://github.com/Triptiverma003">
+<img src="./img/image_1.png" alt="Image Description" width="380"align="right"></a>
 
 <a href="https://github.com/Triptiverma003"> <img src="./gif/gif_2.gif" width="100" align="left"/></a>
 <a href="https://github.com/Triptiverma003"> <img src="./gif/gif_2.gif" width="75" align="left"/></a>
