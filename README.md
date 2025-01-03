@@ -21,14 +21,14 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 42%; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 58%; height: auto;"/>
 </div>
 
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
+<div>
 
-<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhash-kr0&theme=nightowl" alt="Stats" style="flex: 1; width: 28%; height: auto;"/></a>
-<a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 30%px; height: auto;"/></a>
-<a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 270px;"/></a>
+<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhash-kr0&theme=nightowl" alt="Stats" align="left" width="25%"/></a>
+<a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" align="centre"/></a><img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" width="40%" align="right" /></a>
 </div>
 
 
+</div>
 
 <a href="https://github.com/subhash-kr0">
 <img src="./img/image_1.png" alt="Image Description" width="380"align="right"></a>
