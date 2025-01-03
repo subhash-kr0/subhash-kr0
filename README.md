@@ -50,7 +50,7 @@
 
 <hr>
 <div>
-<a href="https://github.com/subhash-kr0"><img src="./img/img_03.png" alt="Image Description" width="300" align="left"><img src="./img/img_02.png" alt="Image Description" width="550" height=auto align="center"/></a><a href="https://github.com/subhash-kr0"></a>
+<a href="https://github.com/subhash-kr0"><img src="./img/img_03.png" alt="Image Description" width="300" align="left"><img src="./img/img_02.png" alt="Image Description" width="500" height=auto align="center"/></a><a href="https://github.com/subhash-kr0"></a>
 </div> <!-- <img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/> -->
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
