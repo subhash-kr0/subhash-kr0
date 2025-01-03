@@ -50,11 +50,11 @@
 
 <hr>
 <div>
-<a href="https://github.com/subhash-kr0"><img src="./img/img_02.png" alt="Image Description" width="300" height="260" align="left"><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"/></a><a href="https://github.com/subhash-kr0"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
+<a href="https://github.com/subhash-kr0"><img src="./img/img_03.png" alt="Image Description" width="300" align="left"><img src="./img/img_02.png" alt="Image Description" width="400" height=auto align="center"/></a><a href="https://github.com/subhash-kr0"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
-<a href="https://github.com/subhash-kr0"><img src="./img/image.png" width="210" height="260" align="left"></a>
+<a href="https://github.com/subhash-kr0"><img src="./img/img_04.png" width="210" height="260" align="left"></a>
 
 ### 🎧 Spotify Playing
 <!-- ![spotify-github-profile](/img/default.svg) -->
