@@ -31,7 +31,7 @@
 </div>
 
 <a href="https://github.com/subhash-kr0">
-<img src="./img/img_01.png" alt="Image Description" width="500" height="350" align="right"></a>
+<img src="./img/img_01.png" alt="Image Description" width="500" height="300" align="right"></a>
 
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="100" align="left"/></a>
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="75" align="left"/></a>
@@ -42,7 +42,7 @@
 <!-- <img src="https://via.placeholder.com/600x200" alt="Profile Banner" width="600" height="200"> -->
 
 ### 🌟 About Me
- A passionate Computer Science Graduate specializing in Data Science. I have hands-on experience in building dynamic and user-friendly web applications, blending my skills in web development with a strong foundation in data-driven problem-solving.
+ A passionate Computer Science Graduate specializing in Data Science. I have hands-on experience in building dynamic and user-friendly web applications.
 <!--- 💻 Software Engineer and Data Scientist.
 - 🛠️ Proficient in Python, Java, and Blockchain.-->
 - 🌱 Currently learning advanced cybersecurity topics.
