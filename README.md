@@ -9,7 +9,7 @@
 
 <a href="https://github.com/subhash-kr0"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 218px; height: auto;"/></a>
 <a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 345px; height: auto;"/></a>
-<a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 270px;"/></a>
+<a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 240px;"/></a>
 </div>
 
 
