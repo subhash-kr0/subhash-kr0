@@ -50,17 +50,17 @@
 
 <hr>
 <div>
-<a href="https://github.com/subhash-kr0"><img src="./img/img_03.png" alt="Image Description" width="300" align="left"><img src="./img/img_02.png" alt="Image Description" width="600" height=auto align="center"/></a><a href="https://github.com/subhash-kr0"></a>
+<a href="https://github.com/subhash-kr0"><img src="./img/img_03.png" alt="Image Description" width="300" align="left"><img src="./img/img_02.png" alt="Image Description" width="550" height=auto align="center"/></a><a href="https://github.com/subhash-kr0"></a>
 </div> <!-- <img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/> -->
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
-<a href="https://github.com/subhash-kr0"><img src="./img/img_04.png" width="210" height="260" align="left"></a>
+<a href="https://github.com/subhash-kr0"><img src="./img/img_04.png" width="250" height="260" align="left"></a>
 
 ### 🎧 Spotify Playing
 <!-- ![spotify-github-profile](/img/default.svg) -->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 <div align="left">
-<a href="https://open.spotify.com/user/"><img src="./img/default.svg" width="210" height="260" align="left">
+<a href="https://open.spotify.com/user/"><img src="./img/default.svg" width="180" height="260" align="left">
 <img src="./img/btn-spotify.png" width="220" height="60"align="centre"></a>
 </div>
  <a href="https://www.instagram.com/subhash_k0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
