@@ -31,7 +31,7 @@
 </div>
 
 <a href="https://github.com/subhash-kr0">
-<img src="./img/image_1.png" alt="Image Description" width="380"align="right"></a>
+<img src="./img/img_01.png" alt="Image Description" width="380"align="right"></a>
 
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="100" align="left"/></a>
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="75" align="left"/></a>
@@ -50,7 +50,7 @@
 
 <hr>
 <div>
-<a href="https://github.com/subhash-kr0"><img src="./img/image_2.PNG" alt="Image Description" width="300" height="260" align="left"><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"/></a><a href="https://github.com/subhash-kr0"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
+<a href="https://github.com/subhash-kr0"><img src="./img/img_01.png" alt="Image Description" width="300" height="260" align="left"><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"/></a><a href="https://github.com/subhash-kr0"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
 </div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
@@ -77,10 +77,10 @@
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 </div>
 
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
-<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhash-kr0&theme=nightowl" alt="Repos-per-language" style="flex: 1; width: 32%; height: auto;"/></a>
-<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhash-kr0&theme=nightowl" alt="Most-Commit-Language" style="flex: 1; width: 32%; height: auto;"/></a>
-<a href="https://github.com/subhash-kr0"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 32%; height: auto;"/></a>
+<div align="left" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
+<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhash-kr0&theme=nightowl" alt="Repos-per-language" style="flex: 1; width: 33%; height: auto;"/></a>
+<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhash-kr0&theme=nightowl" alt="Most-Commit-Language" style="flex: 1; width: 33%; height: auto;"/></a>
+<a href="https://github.com/subhash-kr0"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 33%; height: auto;"/></a>
 <!-- <a href="https://github.com/subhash-kr0"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 218px; height: auto;"/></a> -->
 <!-- <a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 345px; height: auto;"/></a>
 <a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triptiverma003&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 270px;"/></a> -->
