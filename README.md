@@ -31,12 +31,12 @@
 </div>
 
 <a href="https://github.com/subhash-kr0">
-<img src="./img/img_01.png" alt="Image Description" width="500" height="300" align="right"></a>
+<img src="./img/img_01.png" alt="Image Description" width="500" height="300" align="left"></a>
 
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="100" align="left"/></a>
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="75" align="left"/></a>
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="50" align="left"/></a>
-
+<img src="./gif/Header_1.gif" width="300" align="left"/></a>
 ### Hi there, I'm Subhash kr ! 👋
 
 <!-- <img src="https://via.placeholder.com/600x200" alt="Profile Banner" width="600" height="200"> -->
