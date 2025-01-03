@@ -31,7 +31,7 @@
 </div>
 
 <a href="https://github.com/subhash-kr0">
-<img src="./img/img_01.png" alt="Image Description" width="380"align="right"></a>
+<img src="./img/img_01.png" alt="Image Description" width="400"align="right"></a>
 
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="100" align="left"/></a>
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="75" align="left"/></a>
@@ -50,8 +50,8 @@
 
 <hr>
 <div>
-<a href="https://github.com/subhash-kr0"><img src="./img/img_03.png" alt="Image Description" width="300" align="left"><img src="./img/img_02.png" alt="Image Description" width="400" height=auto align="center"/></a><a href="https://github.com/subhash-kr0"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
-</div>
+<a href="https://github.com/subhash-kr0"><img src="./img/img_03.png" alt="Image Description" width="300" align="left"><img src="./img/img_02.png" alt="Image Description" width="400" height=auto align="center"/></a><a href="https://github.com/subhash-kr0"></a>
+</div> <!-- <img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/> -->
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
 <a href="https://github.com/subhash-kr0"><img src="./img/img_04.png" width="210" height="260" align="left"></a>
