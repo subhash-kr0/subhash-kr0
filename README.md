@@ -2,7 +2,7 @@
 <!-- <img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="20"> -->
 
 <!--
-<div align="center">
+<div align="center"> 
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 42%; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 58%; height: auto;"/>
 </div>
@@ -24,7 +24,7 @@
 <div align="left">
 
 <a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhash-kr0&theme=nightowl" alt="Stats" width="27%"/></a>
-<a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false" width="43%"/></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=false" width="29%"/></a>
+<a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=false" width="43%"/></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=false" width="28%"/></a>
 </div>
 
 
@@ -89,3 +89,8 @@
 <a href="https://github.com/subhash-kr0"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /></a>
 
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/subhash-kr0/count.svg)
+
+![](https://komarev.com/ghpvc/?username=your-github-subhash-kr0)
+
