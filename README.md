@@ -1,123 +1,74 @@
-<a href="https://subhashkr.netlify.app/">![](./myname.jpeg)</a>
+<!-- <img src="./img/th.jpg" alt="Image Description" width="1000" height="80px"> -->
+<!-- <img src="./img/OIP.jpeg" alt="Image Description" width="100%" height="20"> -->
+<div align="center">
+<!-- <img src="prof.gif" alt="Full Width GIF" style="width: 802px; height: auto;"> -->
+<img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 42%; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 58%; height: auto;"/>
+</div>
 
-<a href="https://www.subhashkr.netlify.com/"><img height="137px" align="centre" src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
 
-<img  align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-
-- 🔭 I’m currently working on [My Portfolio](<amazonClone>)
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my projects are available at [<myportfolio>](<myportfolio>)
-
-- 📝 I regularly write articles on [<blolink>](<blolink>)
-
-- 📫 How to reach me **subhashkr855@gmail.com**
-
-- 📄 Know about my experiences [<resumellink>](<resumellink>)
-
-- ⚡ Fun fact **I like to learn new things**
+<a href="https://github.com/Triptiverma003"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Triptiverma003&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 218px; height: auto;"/></a>
+<a href="https://github.com/Triptiverma003"><img src="https://github-readme-stats.vercel.app/api?username=Triptiverma003&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 345px; height: auto;"/></a>
+<a href="https://github.com/Triptiverma003"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triptiverma003&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 270px;"/></a>
+</div>
 
 
+<a href="https://github.com/Triptiverma003">
+<img src="./img/image_1.png" alt="Image Description" width="380"align="right"></a>
 
+<a href="https://github.com/Triptiverma003"> <img src="./gif/gif_2.gif" width="100" align="left"/></a>
+<a href="https://github.com/Triptiverma003"> <img src="./gif/gif_2.gif" width="75" align="left"/></a>
+<a href="https://github.com/Triptiverma003"> <img src="./gif/gif_2.gif" width="50" align="left"/></a>
 
-<h3 align="left">Connect with me:</h3><hr><hr>
-<p align="left">
+### Hi there, I'm Tripti ! 👋
 
-<p>
+<!-- <img src="https://via.placeholder.com/600x200" alt="Profile Banner" width="600" height="200"> -->
 
-<a href="https://www.linkedin.com/in/subhash-kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin" height="50" width="40" hspace="5" />Linkedin</a>
-<a href="https://x.com/subhash_k0?t=l3B56qDD-1oF_uXLrOU7sw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="40" hspace="5" />twitter</a>
-<a href="https://instagram.com/subhash_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instgram" height="50" width="40" hspace="5" />instagram</a>
-<a href="https://www.facebook.com/profile.php?id=61559916877747&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="40"  hspace="5"/>facebook</a>
-<a href="https://www.youtube.com/c/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="40" hspace="5"/>youtube</a>
-<a href="https://discord.gg/subhash_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discode" height="70" width="40" />discord</a>
-<a align="right" href="https://dev.to/subhash_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="50" width="40" hspace="5"/>dev</a>
+### 🌟 About Me
+ A passionate Computer Science Graduate specializing in Data Science. I have hands-on experience in building dynamic and user-friendly web applications, blending my skills in web development with a strong foundation in data-driven problem-solving.
+<!--- 💻 Software Engineer and Data Scientist.
+- 🛠️ Proficient in Python, Java, and Blockchain.-->
+- 🌱 Currently learning advanced cybersecurity topics.
+- 🔥 Passionate about open-source contributions and making Organizations.
 
+<hr>
+<div>
+<a href="https://github.com/Triptiverma003"><img src="./img/image_2.PNG" alt="Image Description" width="300" height="260" align="left"><img src="./img/image_3.PNG" alt="Image Description" width="300"height="180" align="center"/></a><a href="https://github.com/Triptiverma003"><img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/></a>
+</div>
+<hr>
+<!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
+<a href="https://github.com/Triptiverma003"><img src="./img/image.png" width="210" height="260" align="left"></a>
 
+### 🎧 Spotify Playing
+<!-- ![spotify-github-profile](/img/default.svg) -->
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+<div align="left">
+<a href="https://open.spotify.com/user/31vrc5z42q7rjz4zjuxllm7rptxu?si=Uu7w3FcORDW8ebvnw97rwQ"><img src="./img/default.svg" width="210" height="260" align="left">
+<img src="./img/btn-spotify.png" width="220" height="60"align="centre"></a>
+</div>
+ <a href="https://www.instagram.com/tulipstripti_310"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<a href="https://www.linkedin.com/in/tripti-verma-3a883a244/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.snapchat.com/"><img src="https://img.icons8.com/?size=100&id=KrtKMa6Fduil&format=png&color=000000" alt="snapchat"/> <a href="https://twitter.com/"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="mailto:vermatripti547@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<a href="https://leetcode.com/u/vermatripti547/"><img src="https://github.com/user-attachments/assets/fd9d9402-ac79-49d8-af1e-93e880512925" alt="leetcode"/></a>
 
+<!--   <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/> -->
+<!--     <a href="https://www.hackerrank.com"><img src="./gif/hackr.gif" width="180" height="60" alt="twitch"/>    <a href="https://www.hackerrank.com"><img src="./img/leet.png" width="100" height="90" alt="twitch"/> -->
+<hr>
+<div align="center">
+<!-- <img src="prof.gif" alt="Full Width GIF" style="width: 802px; height: auto;"> -->
 
-<a href="https://www.hackerrank.com/profile/subhash_kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" hspace="5" />hackerrank</a>
-<a href="https://codeforces.com/profile/codeforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" hspace="5" />codeforces</a>
-<a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" hspace="5"/>leetcode</a>
-<a href="https://codepen.io/Subhash-Kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="50" width="40" hspace="5"/>codepen</a>
-<a href="https://huggingface.co/Subhash-kr0" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="" height="50" width="50" hspace="5" />huggingface</a>
-<a href="https://stackoverflow.com/users/25767224/subhash-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="50" width="40" hspace="5"/>stackoverflow</a>
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
+</div>
 
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
+<a href="https://github.com/Triptiverma003"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Triptiverma003&theme=nightowl" alt="Repos-per-language" style="flex: 1; width: 33%; height: auto;"/></a>
+<a href="https://github.com/Triptiverma003"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Triptiverma003&theme=nightowl" alt="Most-Commit-Language" style="flex: 1; width: 33%; height: auto;"/></a>
+<a href="https://github.com/Triptiverma003"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Triptiverma003&theme=nightowl" alt="Stats" style="flex: 1; width: 33%; height: auto;"/></a>
+<!-- <a href="https://github.com/Triptiverma003"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Triptiverma003&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 218px; height: auto;"/></a> -->
+<!-- <a href="https://github.com/Triptiverma003"><img src="https://github-readme-stats.vercel.app/api?username=Triptiverma003&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 345px; height: auto;"/></a>
+<a href="https://github.com/Triptiverma003"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triptiverma003&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 270px;"/></a> -->
+</div>
+<!-- Footer -->
+<a href="https://github.com/Triptiverma003"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /></a>
 
-<a href="https://codesandbox.io/u/subhash_kr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="50" width="40" hspace="5"/>codesandbox</a>
-<a href="https://dribbble.com/dribble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribble" height="30" width="40" hspace="5"/>dribble</a>
-<a href="https://www.behance.net/behance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" hspace="5"/>behance</a>
-<a href="https://hashnode.com/hashnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" hspace="5"/>hashnode</a>
-<a href="https://medium.com/@subhashkr855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />medium</a>
-<a href="https://www.codechef.com/users/subhash_kr0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />codechef</a>
-<a href="https://kaggle.com/kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="50" width="40"/>kaggle</a>
-
-
-## Programming Languages
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="50" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="50" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="50" alt="C#" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="50" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="50" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="50" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="50" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="50" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="50" alt="Kotlin" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="50" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="50" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="50" alt="rlang" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="50" hspace="10" alt="Ruby" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="50" alt="Rust" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img hspace="10" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="50" alt="Swift" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="50" alt="TypeScript" /></a>
-</p>
-
-
-## Technologies
-
- <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&" width="100" height="50"/><img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" width="100" height="50"/>
- <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" width="100" height="50"/>
- <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-React-000?&logo=React" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-Spring-000?&logo=Spring" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-Redis-000?&logo=Redis" width="120" height="50"/>
- <img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" width="140" height="50"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhash-kr0&" alt="subhash-kr0" />
-
-
-<!-- <img src="https://raw.githubusercontent.com/subhash-kr0/subhash-kr0/output/snake.svg" alt="Snake animation" /> -->
-
-
-
-<!-- ### ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
-
-
-<!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
-
-<!-- ### Full Stack Projects
-
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
-
-### Cybersecurity Projects
-
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools) -->
-
-
-
-
+</div>
