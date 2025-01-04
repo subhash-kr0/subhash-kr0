@@ -36,9 +36,9 @@
 -->
 </div></div>
 <!-- ### Hi there, I'm Subhash kr ! 👋 -->
-<br/>
+<br><hr>
 
-### 🌟 About Me
+###  🌟 About Me
  A passionate Computer Science Graduate specializing in Data Science. I have hands-on experience in building dynamic and user-friendly web applications.
 <!--- 💻 Software Engineer and Data Scientist.
 - 🛠️ Proficient in Python, Java, and Blockchain.-->
