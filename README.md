@@ -22,7 +22,6 @@
 
 <img src="./gif/gif_2.gif" width="55"/><img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=800&pause=2000&multiline=true&width=160&height=50&lines=+My+Intro+👨🏻‍💻" alt="About Me" /><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=400&pause=1000&multiline=true&width=400&height=130&lines=I'm a passionate Software Engineer with hands;on experience in software development, data;science and blockchain technology.Proficiency;in Python, Java, and data analysis, with a;strong foundation in machine learning and;blockchain protocols." alt="Short Intro"/>
 
-<hr>
 <div align="" width="100%">
 <a href="https://github.com/subhash-kr0"><img src="./img/img_04.png" alt="Image Description" width="55%" height=auto /><img src="./img/img_03.png" alt="Image Description" width="35%" height=auto/></a>
 </div>
