@@ -23,24 +23,24 @@
 <img src="./gif/gif_2.gif" width="55"/><img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=800&pause=2000&multiline=true&width=160&height=50&lines=+My+Intro+👨🏻‍💻" alt="About Me" /><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=400&pause=1000&multiline=true&width=400&height=150&lines=I'm a passionate Software Engineer with hands-on experience;in software development, data science and blockchain technology.;proficiency in Python, Java, and data analysis, with a strong;foundation in machine learning and blockchain protocols.;+AI+Engineer+%7C+BlockChain+%7C+Software Dev+%7C+Linux;+;🌱 Passionate about open-source contributions." alt="Short Intro"/>
 
 <hr>
-<div align="center" width="100%">
-<a href="https://github.com/subhash-kr0"><img src="./img/img_02.png" alt="Image Description" width="60%" height=auto /><img src="./img/img_03.png" alt="Image Description" width="40%"/></a>
+<div align="" width="100%">
+<a href="https://github.com/subhash-kr0"><img src="./img/img_04.png" alt="Image Description" width="50%" height=auto /><img src="./img/img_03.png" alt="Image Description" width="35%" height=auto/></a>
 </div>
 </div> <!-- <img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/> -->
 <div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
-<a href="https://github.com/subhash-kr0"><img src="./img/img_04.png" width="40%" height=auto align="left"></a>
+<a href="https://github.com/subhash-kr0"><img src="./img/freelancer.webp" width="60%" height=auto align="left"></a>
 
 <!-- ### 🎧 Spotify Playing -->
 <div align="left">
-<a href="https://open.spotify.com/user/"><img src="./img/default.svg" width="20%" height=auto align="left">
-<img src="./img/btn-spotify.png" width="220" height="60"align="centre"></a>
+<img src="./img/btn-spotify.png" width="20%" height=auto align="left"></a><a href="https://open.spotify.com/user/"><img src="./img/default.svg" width="20%" height=auto align="left">
+
 </div>
 
 
-![](https://skillicons.dev/icons?i=codepen&theme=dark) ![](https://skillicons.dev/icons?i=stackoverflow&theme=dark) ![](https://skillicons.dev/icons?i=discord&theme=dark)
- ![](https://skillicons.dev/icons?i=instagram&theme=dark) <br>![](https://skillicons.dev/icons?i=linkedin&theme=dark) ![](https://skillicons.dev/icons?i=twitter&theme=dark) ![](https://skillicons.dev/icons?i=devto&theme=dark) ![](https://skillicons.dev/icons?i=github&theme=dark) 
+![](https://skillicons.dev/icons?i=codepen&theme=dark) ![](https://skillicons.dev/icons?i=stackoverflow&theme=dark) ![](https://skillicons.dev/icons?i=discord&theme=dark)<br/>
+ ![](https://skillicons.dev/icons?i=instagram&theme=dark) ![](https://skillicons.dev/icons?i=linkedin&theme=dark) ![](https://skillicons.dev/icons?i=twitter&theme=dark) <br/> ![](https://skillicons.dev/icons?i=devto&theme=dark) ![](https://skillicons.dev/icons?i=github&theme=dark) 
 
 <!--
  <a href="https://www.instagram.com/subhash_k0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
