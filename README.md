@@ -37,7 +37,7 @@
 </div></div>
 <!-- ### Hi there, I'm Subhash kr ! 👋 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=800&pause=2000&multiline=true&width=500&height=50&lines=+My+Intro+👨🏻‍💻" alt="About Me" /><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=FF00FF&size=16&duration=400&pause=1000&multiline=true&width=500&height=150&lines=I'm a passionate Software Engineer with hands-on experience;in software development, data science and blockchain technology.; I'm proficient in Python, Java, and data analysis, with a strong;foundation in machine learning and blockchain protocols.;+AI+Engineer+%7C+BlockChain+%7C+Software Dev+%7C+Linux;+;🌱 Passionate about open-source contributions and making Organizations." alt="Short Intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=800&pause=2000&multiline=true&width=500&height=50&lines=+My+Intro+👨🏻‍💻" alt="About Me" /><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=FF00FF&size=16&duration=400&pause=1000&multiline=true&width=415&height=150&lines=I'm a passionate Software Engineer with hands-on experience;in software development, data science and blockchain technology.; I'm proficient in Python, Java, and data analysis, with a strong;foundation in machine learning and blockchain protocols.;+AI+Engineer+%7C+BlockChain+%7C+Software Dev+%7C+Linux;+;🌱 Passionate about open-source contributions." alt="Short Intro"/>
 
 <hr>
 <div align="center" width="100%">
