@@ -42,7 +42,7 @@
 
 
 ![](https://skillicons.dev/icons?i=codepen&theme=dark) ![](https://skillicons.dev/icons?i=stackoverflow&theme=dark) ![](https://skillicons.dev/icons?i=discord&theme=dark)
- ![](https://skillicons.dev/icons?i=instagram&theme=dark) ![](https://skillicons.dev/icons?i=linkedin&theme=dark) ![](https://skillicons.dev/icons?i=twitter&theme=dark) ![](https://skillicons.dev/icons?i=devto&theme=dark) ![](https://skillicons.dev/icons?i=facbook&theme=dark) 
+ ![](https://skillicons.dev/icons?i=instagram&theme=dark) <br>![](https://skillicons.dev/icons?i=linkedin&theme=dark) ![](https://skillicons.dev/icons?i=twitter&theme=dark) ![](https://skillicons.dev/icons?i=devto&theme=dark) ![](https://skillicons.dev/icons?i=github&theme=dark) 
 
 <!--
  <a href="https://www.instagram.com/subhash_k0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
