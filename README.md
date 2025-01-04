@@ -37,12 +37,7 @@
 </div></div>
 <!-- ### Hi there, I'm Subhash kr ! 👋 -->
 
-###  🌟 About Me
- A passionate Computer Science Graduate specializing in Data Science. I have hands-on experience in building dynamic and user-friendly web applications.
-<!--- 💻 Software Engineer and Data Scientist.
-- 🛠️ Proficient in Python, Java, and Blockchain.-->
-- 🌱 Currently learning advanced cybersecurity topics.
-- 🔥 Passionate about open-source contributions and making Organizations.
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=800&pause=2000&multiline=true&width=500&height=50&lines=+My+Intro+👨🏻‍💻" alt="About Me" /><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=FF00FF&size=16&duration=400&pause=1000&multiline=true&width=500&height=250&lines=I'm a passionate Software Engineer with hands-on experience;in software development, data science and blockchain technology.; I'm proficient in Python, Java, and data analysis, with a strong foundation;in machine learning and blockchain protocols.;+AI+Engineer+%7C+BlockChain+%7C+Software Dev+%7C+Linux;+;🌱 Currently learning cybersecurity and Deep Learning topics.;+🔥 Passionate about open-source contributions and making Organizations." alt="Short Intro"/>
 
 <hr>
 <div align="center" width="100%">
@@ -76,9 +71,9 @@
 </div>
 
 <div align="left">
-<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhash-kr0&theme=nightowl" alt="Repos-per-language" width="32.5%"/></a>
-<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhash-kr0&theme=nightowl" alt="Most-Commit-Language" width="32.5%"/></a>
-<a href="https://github.com/subhash-kr0"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" width="32.5%"/></a>
+<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhash-kr0&theme=nightowl" alt="Repos-per-language" width="32.3%"/></a>
+<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhash-kr0&theme=nightowl" alt="Most-Commit-Language" width="32.3%"/></a>
+<a href="https://github.com/subhash-kr0"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" width="32.3%"/></a>
 <!-- <a href="https://github.com/subhash-kr0"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" style="flex: 1; width: 218px; height: auto;"/></a> -->
 <!-- <a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="flex: 1; width: 345px; height: auto;"/></a>
 <a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triptiverma003&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=true" style="flex: 1; width: 270px;"/></a> -->
