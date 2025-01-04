@@ -27,8 +27,8 @@
 <a href="https://github.com/subhash-kr0">
 <a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhash-kr0&theme=nightowl" alt="Stats" width="27%"/></a>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="flex: 1; width: 42%; height: auto;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 58%; height: auto;"/>
-<img src="./img/img_001.png" alt="Image Description" width="48%" align="right"/></a>
-<img src="./gif/Header_1.gif" width="46%" align=left />
+<img src="./img/img_001.png" alt="Image Description" width="400" align="right"/></a>
+<img src="./gif/Header_1.gif" width="400" align=left />
 <!--
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="100" align="left"/></a>
 <a href="https://github.com/subhash-kr0"> <img src="./gif/gif_2.gif" width="75" align="left"/></a>
@@ -36,7 +36,6 @@
 -->
 </div></div>
 <!-- ### Hi there, I'm Subhash kr ! 👋 -->
-<br><hr>
 
 ###  🌟 About Me
  A passionate Computer Science Graduate specializing in Data Science. I have hands-on experience in building dynamic and user-friendly web applications.
@@ -46,9 +45,11 @@
 - 🔥 Passionate about open-source contributions and making Organizations.
 
 <hr>
-<div>
-<a href="https://github.com/subhash-kr0"><img src="./img/img_03.png" alt="Image Description" width="300" align="left"><img src="./img/img_02.png" alt="Image Description" width="500" height=auto align="center"/></a><a href="https://github.com/subhash-kr0"></a>
+<div align="center" width="100%">
+<a href="https://github.com/subhash-kr0"><img src="./img/img_03.png" alt="Image Description" width="40%"/><img src="./img/img_02.png" alt="Image Description" width="60%" height=auto /></a><a href="https://github.com/subhash-kr0"></a>
+</div>
 </div> <!-- <img src="./gif/gif_1.gif" alt="Image Description" width="220"height="180" align="right"/> -->
+<div>
 <hr>
 <!-- <img src="./img/btn-spotify.png" width="300" height="60"> -->
 <a href="https://github.com/subhash-kr0"><img src="./img/img_04.png" width="300" height="260" align="left"></a>
