@@ -28,7 +28,7 @@
 </div>
 
 ![](https://skillicons.dev/icons?i=codepen&theme=dark) ![](https://skillicons.dev/icons?i=stackoverflow&theme=dark) ![](https://skillicons.dev/icons?i=discord&theme=dark)
- ![instagram.com/subhash_k0](https://skillicons.dev/icons?i=instagram&theme=dark) ![](https://skillicons.dev/icons?i=linkedin&theme=dark) ![](https://skillicons.dev/icons?i=twitter&theme=dark) ![](https://skillicons.dev/icons?i=devto&theme=dark) ![](https://skillicons.dev/icons?i=github&theme=dark) 
+ ![[instagram.com/subhash_k0](https://www.instagram.com/subhash_k0/)](https://skillicons.dev/icons?i=instagram&theme=dark) ![](https://skillicons.dev/icons?i=linkedin&theme=dark) ![](https://skillicons.dev/icons?i=twitter&theme=dark) ![](https://skillicons.dev/icons?i=devto&theme=dark) ![](https://skillicons.dev/icons?i=github&theme=dark) 
 
 <div align="center">
 
