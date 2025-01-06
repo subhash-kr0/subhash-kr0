@@ -27,8 +27,7 @@
 
 </div>
 
-![](https://skillicons.dev/icons?i=codepen&theme=dark) ![](https://skillicons.dev/icons?i=stackoverflow&theme=dark) ![](https://skillicons.dev/icons?i=discord&theme=dark)
- ![[instagram.com/subhash_k0](https://www.instagram.com/subhash_k0/)](https://skillicons.dev/icons?i=instagram&theme=dark) ![](https://skillicons.dev/icons?i=linkedin&theme=dark) ![](https://skillicons.dev/icons?i=twitter&theme=dark) ![](https://skillicons.dev/icons?i=devto&theme=dark) ![](https://skillicons.dev/icons?i=github&theme=dark) 
+<a href="https://codepen.io/Subhash-Kr">![](https://skillicons.dev/icons?i=codepen&theme=dark)</a> <a href="https://stackoverflow.com/users/25767224/subhash-kr">![](https://skillicons.dev/icons?i=stackoverflow&theme=dark)</a> ![](https://skillicons.dev/icons?i=discord&theme=dark) <a href="https://www.instagram.com/subhash_k0/">![](https://skillicons.dev/icons?i=instagram&theme=dark)</a> <a href="https://www.linkedin.com/in/subhash-kr0">![](https://skillicons.dev/icons?i=linkedin&theme=dark)</a> <a href="https://x.com/subhash_k0">![](https://skillicons.dev/icons?i=twitter&theme=dark)</a> <a href="https://dev.to/subhash_kr">![](https://skillicons.dev/icons?i=devto&theme=dark)</a>
 
 <div align="center">
 
