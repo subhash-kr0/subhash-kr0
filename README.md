@@ -19,7 +19,7 @@
 <div>
 <hr>
 
-<a href="https://github.com/subhash-kr0"><img src="./img/freelancer.webp" width="60%" height=auto align="left"></a>
+<a href="https://www.freelancer.com/u/subhashkr0"><img src="./img/freelancer.webp" width="60%" height=auto align="left"></a>
 
 <!-- ### 🎧 Spotify Playing -->
 <div align="left">
