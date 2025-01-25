@@ -8,8 +8,8 @@
 
 </div>
 </br>
-<a href="https://github.com/subhash-kr0"><img src="./gif/gif_2.gif" width="55"/><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=400&pause=1000&multiline=true&width=400&height=130&lines=Hello Developers 🤖;I'm Proficient in ;Java || Data Scientist || BlockChain Dev" alt="Short Intro"/></a>
-<a href="https://medium.com/@matyo91"><img src="./gif/mdm.gif" alt="medium" width="10%"/></a>
+<a href="https://github.com/subhash-kr0"><img src="./gif/gif_2.gif" width="55"/><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=400&pause=1000&multiline=true&width=400&height=100&lines=Hello Developers 🤖;I'm Proficient in 🧑‍💻;Java || Data Scientist || BlockChain Dev" alt="Short Intro"/></a>
+<a href="https://medium.com/@subhash_kr0"><img src="./gif/mdm.gif" alt="medium" width="10%"/></a>
 <!-- [![Subhash kr Medium](https://github-readme-medium.vercel.app/?username=subhash-kr0)](https://medium.com/@subhash_kr0) -->
 <details>
 <summary>😎Skills & Portfolio (Click Here)</summary>
@@ -49,10 +49,10 @@
 
 <!-- <img align="center" src="https://githubstat.linsnow.cn/api?username=subhash-kr0&count_private=true&show_icons=true&theme=ambient_gradient" /> -->
 
-
+<!--
 ![Visitor Count](https://profile-counter.glitch.me/subhash-kr0/count.svg)
 
-![](https://komarev.com/ghpvc/?username=your-github-subhash-kr0)
+![](https://komarev.com/ghpvc/?username=your-github-subhash-kr0) -->
 
 
 <!-- <img src="https://github-stats-alpha.vercel.app/api?username=subhash-kr0&cc=011627&tc=37BCF6&ic=FF00CC&bc=0000ff"> -->
