@@ -9,7 +9,7 @@
 </div>
 </br>
 
-<a href="https://github.com/subhash-kr0"><img src="./gif/gif_2.gif" width="10%" align=left/></a><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=400&pause=1000&multiline=true&width=400&height=80&lines=Hello Developers 🤖;I'm Proficient in 🧑‍💻;Java || Data Scientist || BlockChain Dev" alt="Short Intro"/></a>
+<a href="https://github.com/subhash-kr0"><img src="./gif/gif_2.gif" width="10%" align=left/></a><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=400&pause=1000&multiline=true&width=250&height=80&lines=Hello Developers 🤖;I'm Proficient in 🧑‍💻"/></a><a><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=400&pause=1000&multiline=true&width=400&height=80&lines=Java || Data Scientist || BlockChain Dev" alt="Short Intro"/></a>
 <a href="https://medium.com/@subhash_kr0"><img src="./gif/mdm.gif" alt="medium" width="10%"/></a>
 <!-- [![Subhash kr Medium](https://github-readme-medium.vercel.app/?username=subhash-kr0)](https://medium.com/@subhash_kr0) -->
 <details>
