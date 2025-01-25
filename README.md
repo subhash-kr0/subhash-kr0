@@ -3,17 +3,17 @@
 
 <a href="https://github.com/subhash-kr0"><img src="https://github-readme-stats.vercel.app/api?username=subhash-kr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=True" width="43%"/></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kr0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=false" width="28.5%"/></a>
 <a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhash-kr0&theme=nightowl" alt="Stats" width="27%"/></a>
-<a href="https://github.com/subhash-kr0"><img src="https://github-stats-alpha.vercel.app/api?username=subhash-kr0&cc=00000&tc=00ecbc&ic=FF00CC&bc=088395" width="42%"></a><a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 58%; height: auto;"/></a>
+<a href="https://github.com/subhash-kr0"><img src="https://github-stats-alpha.vercel.app/api?username=subhash-kr0&cc=000&tc=00ecbc&ic=FF00CC&bc=088395" width="42%"></a><a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhash-kr0&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="flex: 1; width: 58%; height: auto;"/></a>
 <a href="https://www.linkedin.com/in/subhash-kr0"><img src="./img/image.png" alt="Image Description" width="410" align="right"/></a><a href="https://github.com/subhash-kr0"><img src="./gif/Header_1.gif" width="410" align=left /></a>
 
 </div>
 </br>
 
-<a href="https://github.com/subhash-kr0"><img src="./gif/gif_2.gif" width="80" align=left/></a><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=400&pause=1000&multiline=true&width=200&height=70&lines=;Hello Developers 🤖;I'm Proficient in 🧑‍💻"/></a><a><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=400&pause=1000&multiline=true&width=400&height=30&lines=Java || Data Scientist || BlockChain Dev" alt="Short Intro"/></a>
-<a href="https://medium.com/@subhash_kr0"><img src="./gif/mdm.gif" alt="medium" width="15%"/></a><a href="https://medium.com/@subhash_kr0"><img src="./gif/cpen.gif" alt="medium" width="11%"/></a><a href="https://medium.com/@subhash_kr0"><img src="./gif/yt.gif" alt="medium" width="11%"/></a>
+<a href="https://github.com/subhash-kr0"><img src="./gif/gif_2.gif" width="80" align=left/></a><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=1000&pause=1000&multiline=true&width=200&height=70&lines=;Hello Developers 🤖;I'm Proficient in 🧑‍💻"/></a><a href="https://github.com/subhash-kr0"><img src="https://readme-typing-svg.demolab.com?font=Calibri &size=16&duration=1000&pause=2000&multiline=true&width=400&height=30&lines=Java || Data Scientist || BlockChain Dev" alt="Short Intro"/></a>
+<a href="https://medium.com/@subhash_kr0"><img src="./gif/mdm.gif" alt="medium" width="15%"/></a><a href="https://codepen.io/Subhash-Kr"><img src="./gif/cpen.gif" alt="codepen" width="11%"/></a><a href="https://youtube.com"><img src="./gif/yt.gif" alt="medium" width="11%"/></a>
 <!-- [![Subhash kr Medium](https://github-readme-medium.vercel.app/?username=subhash-kr0)](https://medium.com/@subhash_kr0) -->
 <details>
-<summary>😎Skills & Portfolio (Click Here)</summary>
+<summary> 😎 Skills & Portfolio (Click Here)</summary>
 <div align="" width="100%">
 <a href="https://github.com/subhash-kr0"><img src="./img/img_04.png" alt="Image Description" width="55%" height=auto /><img src="./img/img_03.png" alt="Image Description" width="35%" height=auto/></a>
 </div>
