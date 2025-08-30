@@ -21,29 +21,16 @@
 <!-- ### 🎧 Spotify Playing -->
 <div align="left">
 <a href="https://open.spotify.com/"><img src="./img/btn-spotify.png" width="20%" height=auto align="left"></a><a href="https://open.spotify.com/"><img src="./img/default.svg" width="20%" height=auto align="left"></a>
-
 </div>
 
 <a href="https://codepen.io/Subhash-Kr">![](https://skillicons.dev/icons?i=codepen&theme=dark)</a> <a href="https://stackoverflow.com/users/25767224/subhash-kr">![](https://skillicons.dev/icons?i=stackoverflow&theme=dark)</a> ![](https://skillicons.dev/icons?i=discord&theme=dark) <a href="https://www.instagram.com/subhash_k0/">![](https://skillicons.dev/icons?i=instagram&theme=dark)</a> <a href="https://www.linkedin.com/in/subhash-kr0">![](https://skillicons.dev/icons?i=linkedin&theme=dark)</a> <a href="https://x.com/subhash_k0">![](https://skillicons.dev/icons?i=twitter&theme=dark)</a> <a href="https://dev.to/subhash_kr">![](https://skillicons.dev/icons?i=devto&theme=dark)</a> <a href="https://github.com/subhash-k0">![](https://skillicons.dev/icons?i=github&theme=dark)</a>
 
-<div align="center">
-
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1px;">
-</div>
-
 <div align="left">
-<!-- <a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhash-kr0&theme=nightowl" alt="Repos-per-language" width="32.3%"/></a>
-<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhash-kr0&theme=nightowl" alt="Most-Commit-Language" width="32.3%"/></a>
-   -->
 <a href="https://github.com/subhash-kr0"><img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhash-kr0&theme=nightowl&utcOffset=5.30" width="25%"><a href="https://github.com/subhash-kr0"><img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhash-kr0&theme=nightowl&utcOffset=5.30" width="25%"><a href="https://github.com/subhash-kr0"><img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&theme=nightowl&utcOffset=5.30" width="25%"><a href="https://github.com/subhash-kr0"><img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhash-kr0&theme=nightowl&utcOffset=5.30" width="25%">
-<!-- <a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" width="32.3%"/></a> -->
-
-
 <a href="https://github.com/subhash-kr0"><img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="36%" height=auto/></a> 
 <a href="https://medium.com/@subhash_kr0"><img src="./gif/mdm.gif" alt="medium" width="25%"/></a><a href="https://codepen.io/Subhash-Kr"><img src="./gif/cpen.gif" alt="codepen" width="19%"/></a><a href="https://youtube.com"><img src="./gif/yt.gif" alt="medium" width="19%"/></a>
 </div>
 <a href="https://github.com/subhash-kr0"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /></a>
-
 </div>
 
 <!-- <img align="center" src="https://githubstat.linsnow.cn/api?username=subhash-kr0&count_private=true&show_icons=true&theme=ambient_gradient" /> -->
@@ -55,3 +42,4 @@
 
 
 <!-- <img src="https://github-stats-alpha.vercel.app/api?username=subhash-kr0&cc=011627&tc=37BCF6&ic=FF00CC&bc=0000ff"> -->
+<!-- <a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" width="32.3%"/></a> -->
