@@ -34,8 +34,13 @@
 <div align="left">
 <a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhash-kr0&theme=nightowl" alt="Repos-per-language" width="32.3%"/></a>
 <a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhash-kr0&theme=nightowl" alt="Most-Commit-Language" width="32.3%"/></a>
-<a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" width="32.3%"/></a>
-<!-- <a href="https://github.com/subhash-kr0"><img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="42%" height=auto/></a> -->
+<a href="https://github.com/subhash-kr0"><img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&theme=nightowl&utcOffset=5.30" width="32.3%">
+<!-- <a href="https://github.com/subhash-kr0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhash-kr0&hide_border=false&theme=nightowl&utcOffset=5.30" alt="Productive-Time" width="32.3%"/></a> -->
+
+
+<a href="https://github.com/subhash-kr0"><img src="http://github-readme-streak-stats.herokuapp.com?user=subhash-kr0&theme=nightowl&&ate_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="33%" height=auto/></a> 
+<a href="https://medium.com/@subhash_kr0"><img src="./gif/mdm.gif" alt="medium" width="23%"/></a><a href="https://codepen.io/Subhash-Kr"><img src="./gif/cpen.gif" alt="codepen" width="18%"/></a><a href="https://youtube.com"><img src="./gif/yt.gif" alt="medium" width="18%"/></a>
+
 </div>
 <!-- Footer -->
 <a href="https://github.com/subhash-kr0"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /></a>
